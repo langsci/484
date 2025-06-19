@@ -1,0 +1,504 @@
+\glsdefs@newdocentry{ass}%
+{%
+name={\acronymfont {\glsentryshort {ass}}},%
+sort={ass},%
+type={main},%
+first={ass},%
+firstplural={asss},%
+text={ass},%
+plural={asss},%
+description={assertion},%
+descriptionplural={assertion},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={assertion},%
+longplural={assertions},%
+short={ass},%
+shortplural={ass\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{aug}%
+{%
+name={\acronymfont {\glsentryshort {aug}}},%
+sort={aug},%
+type={main},%
+first={aug},%
+firstplural={augs},%
+text={aug},%
+plural={augs},%
+description={augmentative},%
+descriptionplural={augmentative},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={augmentative},%
+longplural={augmentatives},%
+short={aug},%
+shortplural={aug\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ctx}%
+{%
+name={\acronymfont {\glsentryshort {ctx}}},%
+sort={ctx},%
+type={main},%
+first={ctx},%
+firstplural={ctxs},%
+text={ctx},%
+plural={ctxs},%
+description={contextual},%
+descriptionplural={contextual},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={contextual},%
+longplural={contextuals},%
+short={ctx},%
+shortplural={ctx\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{dim}%
+{%
+name={\acronymfont {\glsentryshort {dim}}},%
+sort={dim},%
+type={main},%
+first={dim},%
+firstplural={dims},%
+text={dim},%
+plural={dims},%
+description={diminutive},%
+descriptionplural={diminutive},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={diminutive},%
+longplural={diminutives},%
+short={dim},%
+shortplural={dim\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{dp}%
+{%
+name={\acronymfont {\glsentryshort {dp}}},%
+sort={dp},%
+type={main},%
+first={dp},%
+firstplural={dps},%
+text={dp},%
+plural={dps},%
+description={discourse particle},%
+descriptionplural={discourse particle},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={discourse particle},%
+longplural={discourse particles},%
+short={dp},%
+shortplural={dp\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ef}%
+{%
+name={\acronymfont {\glsentryshort {ef}}},%
+sort={ef},%
+type={main},%
+first={ef},%
+firstplural={efs},%
+text={ef},%
+plural={efs},%
+description={event-focus},%
+descriptionplural={event-focus},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={event-focus},%
+longplural={event-focuss},%
+short={ef},%
+shortplural={ef\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ep}%
+{%
+name={\acronymfont {\glsentryshort {ep}}},%
+sort={(ep)},%
+type={main},%
+first={(ep)},%
+firstplural={(ep)s},%
+text={(ep)},%
+plural={(ep)s},%
+description={epenthesis},%
+descriptionplural={epenthesis},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={epenthesis},%
+longplural={epenthesiss},%
+short={(ep)},%
+shortplural={(ep)\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ev}%
+{%
+name={\acronymfont {\glsentryshort {ev}}},%
+sort={ev},%
+type={main},%
+first={ev},%
+firstplural={evs},%
+text={ev},%
+plural={evs},%
+description={evidential},%
+descriptionplural={evidential},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={evidential},%
+longplural={evidentials},%
+short={ev},%
+shortplural={ev\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{freq}%
+{%
+name={\acronymfont {\glsentryshort {freq}}},%
+sort={freq},%
+type={main},%
+first={freq},%
+firstplural={freqs},%
+text={freq},%
+plural={freqs},%
+description={frequentative},%
+descriptionplural={frequentative},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={frequentative},%
+longplural={frequentatives},%
+short={freq},%
+shortplural={freq\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{hab}%
+{%
+name={\acronymfont {\glsentryshort {hab}}},%
+sort={hab},%
+type={main},%
+first={hab},%
+firstplural={habs},%
+text={hab},%
+plural={habs},%
+description={habitual},%
+descriptionplural={habitual},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={habitual},%
+longplural={habituals},%
+short={hab},%
+shortplural={hab\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{impf}%
+{%
+name={\acronymfont {\glsentryshort {impf}}},%
+sort={impf},%
+type={main},%
+first={impf},%
+firstplural={impfs},%
+text={impf},%
+plural={impfs},%
+description={imperfective},%
+descriptionplural={imperfective},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={imperfective},%
+longplural={imperfectives},%
+short={impf},%
+shortplural={impf\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{inch}%
+{%
+name={\acronymfont {\glsentryshort {inch}}},%
+sort={inch},%
+type={main},%
+first={inch},%
+firstplural={inchs},%
+text={inch},%
+plural={inchs},%
+description={inchoative},%
+descriptionplural={inchoative},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={inchoative},%
+longplural={inchoatives},%
+short={inch},%
+shortplural={inch\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{lnk}%
+{%
+name={\acronymfont {\glsentryshort {lnk}}},%
+sort={lnk},%
+type={main},%
+first={lnk},%
+firstplural={lnks},%
+text={lnk},%
+plural={lnks},%
+description={linker},%
+descriptionplural={linker},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={linker},%
+longplural={linkers},%
+short={lnk},%
+shortplural={lnk\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{pf}%
+{%
+name={\acronymfont {\glsentryshort {pf}}},%
+sort={pf},%
+type={main},%
+first={pf},%
+firstplural={pfs},%
+text={pf},%
+plural={pfs},%
+description={participant-focus},%
+descriptionplural={participant-focus},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={participant-focus},%
+longplural={participant-focuss},%
+short={pf},%
+shortplural={pf\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ph}%
+{%
+name={\acronymfont {\glsentryshort {ph}}},%
+sort={ph},%
+type={main},%
+first={ph},%
+firstplural={phs},%
+text={ph},%
+plural={phs},%
+description={placeholder},%
+descriptionplural={placeholder},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={placeholder},%
+longplural={placeholders},%
+short={ph},%
+shortplural={ph\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{prop}%
+{%
+name={\acronymfont {\glsentryshort {prop}}},%
+sort={prop},%
+type={main},%
+first={prop},%
+firstplural={props},%
+text={prop},%
+plural={props},%
+description={proprietive},%
+descriptionplural={proprietive},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={proprietive},%
+longplural={proprietives},%
+short={prop},%
+shortplural={prop\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{seq}%
+{%
+name={\acronymfont {\glsentryshort {seq}}},%
+sort={seq},%
+type={main},%
+first={seq},%
+firstplural={seqs},%
+text={seq},%
+plural={seqs},%
+description={sequential},%
+descriptionplural={sequential},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={sequential},%
+longplural={sequentials},%
+short={seq},%
+shortplural={seq\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{unk}%
+{%
+name={\acronymfont {\glsentryshort {unk}}},%
+sort={unk},%
+type={main},%
+first={unk},%
+firstplural={unks},%
+text={unk},%
+plural={unks},%
+description={unknown/unclear},%
+descriptionplural={unknown/unclear},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={unknown/unclear},%
+longplural={unknown/unclears},%
+short={unk},%
+shortplural={unk\glstextup {s}},%
+counter={page},%
+parent={},%
+%
+}%
+
